@@ -5,9 +5,9 @@ Sistema de monitoramento de missão espacial desenvolvido em Python para a Globa
 O programa analisa ciclos de monitoramento de uma missão espacial, classifica o nível de risco de cada ciclo, identifica tendências e gera um relatório final no terminal.
 
 ### INTEGRANTES
-Sergio Augusto Amaral - RM: 570184
-Giovanni Merlotti - RM: 573721
-Gabriel Freitas - RM: 572943
+- Sergio Augusto Amaral - RM: 570184
+- Giovanni Merlotti - RM: 573721
+- Gabriel Freitas - RM: 572943
 ---
 
 ## Como executar
