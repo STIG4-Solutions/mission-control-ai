@@ -92,9 +92,9 @@ A soma das 5 variáveis define a situação do ciclo:
 
 ## Missão simulada
 
-**Nome:** Aether  
-**Equipe:** Stig4 Space 
-**Ciclos:** 7
+- **Nome:** Aether  
+- **Equipe:** Stig4 Space 
+- **Ciclos:** 7
 
 ```python
 dados_missao = [
